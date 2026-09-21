@@ -1,6 +1,6 @@
 # Calculadora de Índice de Massa Corporal (IMC)
 
-Crie esta aplicação para colocar em prática meus primeiros estudos em programação. Trata-se de um projeto simples, mas essencial para construir uma base sólida no desenvolvimento com Python.
+Crie esta aplicação para colocar em prática meus primeiros estudos em python. Trata-se de um projeto simples, mas essencial para construir uma base sólida no desenvolvimento com Python.
 
 # Objetivo
 
