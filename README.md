@@ -8,7 +8,7 @@ Este projeto foi criado para aplicar e fixar os seguintes conceitos básicos de 
 
 - **Entrada e Saída de Dados:** Manipulação de `input()` e `print()`.
 - **Conversão de Tipos (Casting):** Tratamento de dados numéricos (`float`).
-- **Operadores Aritméticos:** Cálculos matemáticos como divisão e potenciação (`/`, `**`).
+- **Operadores Aritméticos:** Cálculos matemáticos como divisão e multiplicação (`/`, `*`).
 - **Estruturas Condicionais:** Lógica de decisão utilizando `if`, `elif` e `else`.
 - **Formatação de Strings:** Uso de *f-strings* e formatação de casas decimais (`{imc:.1f}`).
 
